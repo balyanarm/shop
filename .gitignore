@@ -3,7 +3,8 @@
 /IntegrationIntraStock.Api/App_Data/
 /IntegrationSap.Api/App_Data/
 /IdentityServer/App_Data/
-
+/packages/*
+/packages/repositories.config
 /**/bin/
 /**/obj/
 /**/*.suo
